@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-crm-dashboard/static/css/main.fe33ac55.css",
-    "main.js": "/react-crm-dashboard/static/js/main.d9519d58.js",
+    "main.css": "/react-crm-dashboard/static/css/main.772b990c.css",
+    "main.js": "/react-crm-dashboard/static/js/main.46be39f9.js",
     "static/js/453.8ab44547.chunk.js": "/react-crm-dashboard/static/js/453.8ab44547.chunk.js",
     "index.html": "/react-crm-dashboard/index.html",
-    "main.fe33ac55.css.map": "/react-crm-dashboard/static/css/main.fe33ac55.css.map",
-    "main.d9519d58.js.map": "/react-crm-dashboard/static/js/main.d9519d58.js.map",
+    "main.772b990c.css.map": "/react-crm-dashboard/static/css/main.772b990c.css.map",
+    "main.46be39f9.js.map": "/react-crm-dashboard/static/js/main.46be39f9.js.map",
     "453.8ab44547.chunk.js.map": "/react-crm-dashboard/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe33ac55.css",
-    "static/js/main.d9519d58.js"
+    "static/css/main.772b990c.css",
+    "static/js/main.46be39f9.js"
   ]
 }
